@@ -1,7 +1,7 @@
 import styles from "./EmailForm.module.scss";
 
-const EmailForm = () => {
-  return <input type="email" placeholder="Email" className={styles.email} />;
+const EmailForm = (props) => {
+  return <input type="email" placeholder="Email" className={styles.email} {...props} />;
 };
 
 export default EmailForm;
