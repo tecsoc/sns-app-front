@@ -90,6 +90,11 @@
     "@eslint/core" "^0.15.2"
     levn "^0.4.1"
 
+"@hookform/error-message@^2.0.1":
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/@hookform/error-message/-/error-message-2.0.1.tgz#6a37419106e13664ad6a29c9dae699ae6cd276b8"
+  integrity sha512-U410sAr92xgxT1idlu9WWOVjndxLdgPUHEB8Schr27C9eh7/xUnITWpCMF93s+lGiG++D4JnbSnrb5A21AdSNg==
+
 "@humanfs/core@^0.19.1":
   version "0.19.1"
   resolved "https://registry.yarnpkg.com/@humanfs/core/-/core-0.19.1.tgz#17c55ca7d426733fe3c561906b8173c336b40a77"
@@ -2245,6 +2250,11 @@ react-dom@19.1.0:
   integrity sha512-Xs1hdnE+DyKgeHJeJznQmYMIBG3TKIHJJT95Q58nHLSrElKlGQqDTR2HQ9fx5CN/Gk6Vh/kupBTDLU11/nDk/g==
   dependencies:
     scheduler "^0.26.0"
+
+react-hook-form@^7.62.0:
+  version "7.62.0"
+  resolved "https://registry.yarnpkg.com/react-hook-form/-/react-hook-form-7.62.0.tgz#2d81e13c2c6b6d636548e440818341ca753218d0"
+  integrity sha512-7KWFejc98xqG/F4bAxpL41NB3o1nnvQO1RWZT3TqRZYL8RryQETGfEdVnJN2fy1crCiBLLjkRBVK05j24FxJGA==
 
 react-icons@^5.5.0:
   version "5.5.0"
